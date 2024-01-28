@@ -10,7 +10,7 @@ import java.util.NoSuchElementException;
             Node nextNode;
         }
 
-        geniricLinkedList list;
+      
         private Node first;
         private Node last;
         private int size = 0;
